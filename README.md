@@ -13,8 +13,8 @@ docker images
 docker push <USER>/containerofcats
 
 ## Reference
-1. Creating an [ECS Cluster](/container/reference/1.png)
-2. Creating a [task definition](/container/reference/2.png)
-3. Set appropriate [Port Mapping](/container/reference/3.png) 
+1. Creating an [ECS Cluster](/reference/1.png)
+2. Creating a [task definition](/reference/2.png)
+3. Set appropriate [Port Mapping](/reference/3.png) 
 4. Final Result
-![Demogrid](/container/reference/4.png)
+![Demogrid](/reference/4.png)
