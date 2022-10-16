@@ -3,6 +3,8 @@ Web Application to display cats in a container
 1. Hosting docker container on AWS ECS Cluster
 2. Orchestration with kubernetes pods inside Docker container
 
+Credits to Adrian Cantrill for the [demo-project](https://learn.cantrill.io/)
+
 ## Build the docker image
 docker build -t containerofcats .
 
